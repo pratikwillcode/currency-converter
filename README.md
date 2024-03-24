@@ -2,17 +2,22 @@
 
 This is a simple currency converter web application built using React. It allows users to convert currencies from one to another based on real-time exchange rates.
 
-Features
-User-friendly interface
-Real-time exchange rates fetched from a reliable API
-Support for various currencies
-Responsive design for mobile and desktop browsers
-Installation
-Clone the repository to your local machine:
+## **Features**
 
-bash
-Copy code
+- User-friendly interface
+- Real-time exchange rates fetched from a reliable API
+- Support for various currencies
+- Responsive design for mobile and desktop browsers
+
+  
+## **Installation**
+
+1. Clone the repository to your local machine:
+
+```
 git clone https://github.com/your-username/currency-converter.git
+```
+
 Navigate into the project directory:
 
 bash
